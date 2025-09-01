@@ -1,4 +1,4 @@
-# atividade-para-casa-01
+# bfd-atividade-para-casa-01
 Este repositório contém funções em JavaScript desenvolvidas para praticar conceitos básicos da linguagem, como estruturas de repetição, condicionais e manipulação de arrays.
 Funções
 1. verificarParImpar(numero)
